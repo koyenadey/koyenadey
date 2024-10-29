@@ -1,22 +1,38 @@
-<h1 align="center">Hi 👋, I'm Koyena</h1>
-<h3 align="center">I am a motivated full-stack developer with a passion for crafting engaging and user-friendly websites.</h3>
+<h1 align="left>
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=500&size=21&pause=1000&color=1164F7&width=500&height=70&lines=Hey+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%80%EF%B8%8F%2C+I+am+Koyena" alt="Typing SVG" />
+</a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=koyenadey&label=Profile%20views&color=0e75b6&style=flat" alt="koyenadey" /> </p>
+<p align="left">I am a motivated full-stack developer with a passion for crafting engaging and user-friendly websites. Currently based in Helsinki dedicated to building intuitive and impactful digital experiences.I love tackling complex challenges to create seamless, scalable solutions that meet user needs. Driven by a commitment to quality and innovation, I’m excited to bring ideas to life and make a meaningful impact through technology</p>
 
-- 💬 Ask me about **react, javascript, C#**
+- 🍀 Currently expanding expertise in Azure Cloud Technologies and Backend development to enhance technical depth.
+- 💬 Ask me about **React, Javascript, C#, Asp.Net Core, Rest APIs, Azure Functions, Architechtural pattern**
+- 📫 Send me [Email](mailto:koyenadey8@gmail.com)
+- 💼 Connect with me in [LinkedIn](https://linkedin.com/in/koyena-dey-645369a2)
 
-- 📫 How to reach me **koyenadey8@gmail.com**
+<h3 align="left">🛠️ Languages - Frameworks - Tools</h3>
+<div align="left>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,mui,css,sass,cs,dotnet,nodejs,postgres,mongo,azure&perline=7" />
+  </a> 
+</div>
+<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/koyena-dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="koyena-dey" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/koyena-dey-645369a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koyena-dey-645369a2" height="30" width="40" /></a>
-<a href="https://codesandbox.com/koyenadey8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="koyenadey8" height="30" width="40" /></a>
-</p>
+<h3 align="left">🚀 Featured Projects </h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  - 🛍️ [ModaMorph](https://github.com/koyenadey/ECommWebUI)
+    <p>This is an e-commerce project built using React, Typescript, Asp.Net Core & PostgreSql. This application is a demonstartion of the online shopping experience.</p>    
+  - 🎬 [BookMyMovieTicket](https://github.com/koyenadey/BookMovieTicket)-
+    <p>This is an web - application made in mobile first approach.Currently this application is under development.</p>
+  - 🌐 [Portfolio](https://github.com/koyenadey/portfolio)
+    <p>This is a front-end application that showcases my skills and expertise in building responsive, user-friendly interfaces using modern web technologies </p>
+  - 🥶 [WeatherApp](https://github.com/koyenadey/WeatherApp) - 
+    <p>This is a front-end application that leverages weather API and google maps to show the weather forecast in the current region and any regions across the globe.</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koyenadey&show_icons=true&locale=en&layout=compact" alt="koyenadey" /></p>
+<h3 align="left">GitHub Status</h3>
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=koyenadey&show_icons=true&locale=en&theme=radical" alt="koyenadey"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koyenadey&show_icons=true&locale=en&layout=compact&theme=radical" alt="koyenadey" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koyenadey&show_icons=true&locale=en" alt="koyenadey" /></p>
