@@ -7,7 +7,7 @@
 <p align="left">I am a motivated full-stack developer with a passion for crafting engaging and user-friendly websites. Currently based in Helsinki dedicated to building intuitive and impactful digital experiences.I love tackling complex challenges to create seamless, scalable solutions that meet user needs. Driven by a commitment to quality and innovation, I’m excited to bring ideas to life and make a meaningful impact through technology</p>
 
 - 🍀 Currently expanding expertise in Azure Cloud Technologies and Backend development to enhance technical depth.
-- 💬 Ask me about **React, Javascript, C#, Asp.Net Core, Rest APIs, Azure Functions, Architechtural pattern**
+- 💬 Ask me about **React, Javascript, NestJs ,C#, Asp.Net Core, Rest APIs, Azure Functions, Architechtural pattern**
 - 📫 Send me [Email](mailto:koyenadey8@gmail.com)
 - 💼 Connect with me in [LinkedIn](https://linkedin.com/in/koyena-dey-645369a2)
 
