@@ -14,7 +14,7 @@
 <h3 align="left">🛠️ Languages - Frameworks - Tools</h3>
 <div align="left>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,mui,css,sass,cs,dotnet,nodejs,postgres,mongo,azure&perline=7" />
+    <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,mui,css,sass,cs,dotnet,nestjs,postgres,mongo,azure&perline=7" />
   </a> 
 </div>
 <br />
