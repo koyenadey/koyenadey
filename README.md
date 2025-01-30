@@ -32,7 +32,6 @@
 
 <h3 align="left">GitHub Status</h3>
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=koyenadey&show_icons=true&locale=en&theme=radical" alt="koyenadey"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koyenadey&show_icons=true&locale=en&layout=compact&theme=radical" alt="koyenadey" />
 </div>
 
